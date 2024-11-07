@@ -1,0 +1,17 @@
+unstructured[all-docs]>=0.14.10,<0.15.0
+tiktoken>=0.7.0,<0.8.0
+streamlit==1.35.0
+langchain-openai>=0.1.9,<0.2.0
+langchain>=0.2.5,<0.3.0
+langchain-community>=0.2.5,<0.3.0
+langchain-postgres>=0.0.9,<0.1.0
+python-dotenv>=1.0.1,<2.0.0
+psycopg2-binary>=2.9.9,<3.0.0
+pinecone-client>=4.1.1,<5.0.0
+pymupdf>=1.24.6,<2.0.0
+black>=24.4.2,<25.0.0
+scikit-learn>=1.5.1,<2.0.0
+umap-learn>=0.5.6,<0.6.0
+cohere==5.5.8
+ipykernel>=6.29.5,<7.0.0
+nltk==3.7

@@ -1,0 +1,10 @@
+venv/
+.env
+
+.venv/
+
+.python-version
+
+__pycache__
+
+data/images
